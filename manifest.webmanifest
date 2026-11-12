@@ -1,0 +1,27 @@
+{
+  "name": "Wandeme Advisory | Transformation & Governance",
+  "short_name": "Wandeme",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#091a2c",
+  "theme_color": "#10253c",
+  "description": "B-BBEE advisory and official affidavit PDF resources.",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Affidavit PDFs",
+      "url": "/affidavits"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ]
+}
